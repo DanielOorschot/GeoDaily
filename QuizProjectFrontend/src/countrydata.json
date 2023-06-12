@@ -1,0 +1,1769 @@
+[
+  {
+    "name": "Afghanistan",
+    "continent": "Asia",
+    "population": 32890171,
+    "landArea": 652867,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Albania",
+    "continent": "Europe",
+    "population": 2793592,
+    "landArea": 27398,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Algeria",
+    "continent": "Africa",
+    "population": 45400000,
+    "landArea": 2381741,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Andorra",
+    "continent": "Europe",
+    "population": 82041,
+    "landArea": 468,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Angola",
+    "continent": "Africa",
+    "population": 33086278,
+    "landArea": 1246700,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "continent": "North America",
+    "population": 100772,
+    "landArea": 442,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Argentina",
+    "continent": "South America",
+    "population": 46044703,
+    "landArea": 2736690,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Armenia",
+    "continent": "Europe",
+    "population": 2981200,
+    "landArea": 28342,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Australia",
+    "continent": "Oceania",
+    "population": 26483860,
+    "landArea": 7633565,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Austria",
+    "continent": "Europe",
+    "population": 9106126,
+    "landArea": 82445,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Azerbaijan",
+    "continent": "Asia",
+    "population": 10135373,
+    "landArea": 86100,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bahamas",
+    "continent": "North America",
+    "population": 397360,
+    "landArea": 10010,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bahrain",
+    "continent": "Asia",
+    "population": 1501635,
+    "landArea": 786,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bangladesh",
+    "continent": "Asia",
+    "population": 169828911,
+    "landArea": 134208,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Barbados",
+    "continent": "North America",
+    "population": 282000,
+    "landArea": 431,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Belarus",
+    "continent": "Europe",
+    "population": 9200617,
+    "landArea": 202900,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Belgium",
+    "continent": "Europe",
+    "population": 11750239,
+    "landArea": 30278,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Belize",
+    "continent": "North America",
+    "population": 441471,
+    "landArea": 22806,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Benin",
+    "continent": "Africa",
+    "population": 12506347,
+    "landArea": 114305,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bhutan",
+    "continent": "Asia",
+    "population": 763200,
+    "landArea": 38394,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bolivia",
+    "continent": "South America",
+    "population": 12006031,
+    "landArea": 1083301,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "population": 3320954,
+    "landArea": 51187,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Botswana",
+    "continent": "Africa",
+    "population": 2410338,
+    "landArea": 566730,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Brazil",
+    "continent": "South America",
+    "population": 216152854,
+    "landArea": 8460415,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Brunei",
+    "continent": "Asia",
+    "population": 440715,
+    "landArea": 5265,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Bulgaria",
+    "continent": "Europe",
+    "population": 6447710,
+    "landArea": 108612,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Burkina Faso",
+    "continent": "Africa",
+    "population": 22185654,
+    "landArea": 273602,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Burundi",
+    "continent": "Africa",
+    "population": 12574571,
+    "landArea": 25680,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "continent": "Africa",
+    "population": 29389150,
+    "landArea": 318003,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": "Ivory Coast"
+  },
+  {
+    "name": "Cabo Verde",
+    "continent": "Africa",
+    "population": 569509,
+    "landArea": 4033,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Cambodia",
+    "continent": "Asia",
+    "population": 15552211,
+    "landArea": 176515,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Cameroon",
+    "continent": "Africa",
+    "population": 24348251,
+    "landArea": 472710,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Canada",
+    "continent": "North America",
+    "population": 39906849,
+    "landArea": 9093507,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Central African Republic",
+    "continent": "Africa",
+    "population": 5633412,
+    "landArea": 622984,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Chad",
+    "continent": "Africa",
+    "population": 16818391,
+    "landArea": 1259200,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Chile",
+    "continent": "South America",
+    "population": 19960889,
+    "landArea": 743812,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "China",
+    "continent": "Asia",
+    "population": 1411750000,
+    "landArea": 9326410,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Colombia",
+    "continent": "South America",
+    "population": 52215503,
+    "landArea": 1038700,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Comoros",
+    "continent": "Africa",
+    "population": 758316,
+    "landArea": 1862,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Congo",
+    "continent": "Africa",
+    "population": 5970000,
+    "landArea": 341500,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": "Congo-Brazzaville"
+  },
+  {
+    "name": "Costa Rica",
+    "continent": "North America",
+    "population": 5213362,
+    "landArea": 51060,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Croatia",
+    "continent": "Europe",
+    "population": 3871833,
+    "landArea": 55974,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Cuba",
+    "continent": "North America",
+    "population": 11089511,
+    "landArea": 109884,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Cyprus",
+    "continent": [
+      "Asia",
+      "Europe"
+    ],
+    "population": 918100,
+    "landArea": 9241,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Czechia",
+    "continent": "Europe",
+    "population": 10533399,
+    "landArea": 77171,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": "Czech Republic"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "population": 99010000,
+    "landArea": 2267048,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Denmark",
+    "continent": "Europe",
+    "population": 5941388,
+    "landArea": 42434,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Djibouti",
+    "continent": "Africa",
+    "population": 1001454,
+    "landArea": 23180,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Dominica",
+    "continent": "North America",
+    "population": 73000,
+    "landArea": 751,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Dominican Republic",
+    "continent": "North America",
+    "population": 10535535,
+    "landArea": 48320,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Ecuador",
+    "continent": "South America",
+    "population": 18293879,
+    "landArea": 256369,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Egypt",
+    "continent": [
+      "Africa",
+      "Asia"
+    ],
+    "population": 104822069,
+    "landArea": 995450,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "El Salvador",
+    "continent": "North America",
+    "population": 6884888,
+    "landArea": 20721,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Equatorial Guinea",
+    "continent": "Africa",
+    "population": 1505588,
+    "landArea": 28051,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Eritrea",
+    "continent": "Africa",
+    "population": 3684000,
+    "landArea": 125000,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Estonia",
+    "continent": "Europe",
+    "population": 1357739,
+    "landArea": 42388,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Eswatini (fmr. \"Swaziland\")",
+    "continent": "Africa",
+    "population": 1202000,
+    "landArea": 17204,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Ethiopia",
+    "continent": "Africa",
+    "population": 105163988,
+    "landArea": 1096630,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Fiji",
+    "continent": "Oceania",
+    "population": 893468,
+    "landArea": 18274,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Finland",
+    "continent": "Europe",
+    "population": 5538238,
+    "landArea": 303816,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "France",
+    "continent": "Europe",
+    "population": 68042591,
+    "landArea": 640427,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Gabon",
+    "continent": "Africa",
+    "population": 2233272,
+    "landArea": 257667,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Gambia",
+    "continent": "Africa",
+    "population": 2706000,
+    "landArea": 10000,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Georgia",
+    "continent": "[Asia,Europe]",
+    "population": 3688600,
+    "landArea": 69700,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Germany",
+    "continent": "Europe",
+    "population": 84270625,
+    "landArea": 348672,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Ghana",
+    "continent": "Africa",
+    "population": 30832019,
+    "landArea": 227533,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Greece",
+    "continent": "Europe",
+    "population": 10482487,
+    "landArea": 130647,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Grenada",
+    "continent": "North America",
+    "population": 125000,
+    "landArea": 344,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Guatemala",
+    "continent": "North America",
+    "population": 17109746,
+    "landArea": 107159,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Guinea",
+    "continent": "Africa",
+    "population": 12907395,
+    "landArea": 245717,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Guinea-Bissau",
+    "continent": "Africa",
+    "population": 1646077,
+    "landArea": 28120,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Guyana",
+    "continent": "South America",
+    "population": 743699,
+    "landArea": 196849,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Haiti",
+    "continent": "North America",
+    "population": 11743017,
+    "landArea": 27560,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Holy See",
+    "continent": "Europe",
+    "population": 825,
+    "landArea": 0,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Honduras",
+    "continent": "North America",
+    "population": 9546178,
+    "landArea": 111890,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Hungary",
+    "continent": "Europe",
+    "population": 9678000,
+    "landArea": 89608,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Iceland",
+    "continent": "Europe",
+    "population": 390830,
+    "landArea": 100250,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "India",
+    "continent": "Asia",
+    "population": 1392329000,
+    "landArea": 2973190,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Indonesia",
+    "continent": "Asia",
+    "population": 277749853,
+    "landArea": 1811569,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Iran",
+    "continent": "Asia",
+    "population": 86443940,
+    "landArea": 1531595,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Iraq",
+    "continent": "Asia",
+    "population": 41190700,
+    "landArea": 437367,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Ireland",
+    "continent": "Europe",
+    "population": 5123536,
+    "landArea": 68883,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Israel",
+    "continent": "Asia",
+    "population": 9722240,
+    "landArea": 20330,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Italy",
+    "continent": "Europe",
+    "population": 58815463,
+    "landArea": 294140,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Jamaica",
+    "continent": "North America",
+    "population": 2727503,
+    "landArea": 10831,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Japan",
+    "continent": "Asia",
+    "population": 124470000,
+    "landArea": 364546,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Jordan",
+    "continent": "Asia",
+    "population": 11395642,
+    "landArea": 88802,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Kazakhstan",
+    "continent": "Asia",
+    "population": 19859260,
+    "landArea": 2699700,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Kenya",
+    "continent": "Africa",
+    "population": 47564296,
+    "landArea": 569140,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Kiribati",
+    "continent": "Oceania",
+    "population": 120740,
+    "landArea": 811,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Kuwait",
+    "continent": "Asia",
+    "population": 4670713,
+    "landArea": 17818,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Kyrgyzstan",
+    "continent": "Asia",
+    "population": 7100000,
+    "landArea": 191801,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Laos",
+    "continent": "Asia",
+    "population": 7337783,
+    "landArea": 230800,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Latvia",
+    "continent": "Europe",
+    "population": 1885400,
+    "landArea": 62249,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Lebanon",
+    "continent": "Asia",
+    "population": 5490000,
+    "landArea": 10230,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Lesotho",
+    "continent": "Africa",
+    "population": 2306000,
+    "landArea": 30355,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Liberia",
+    "continent": "Africa",
+    "population": 4661010,
+    "landArea": 96320,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Libya",
+    "continent": "Africa",
+    "population": 6812000,
+    "landArea": 1759540,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Liechtenstein",
+    "continent": "Europe",
+    "population": 39680,
+    "landArea": 160,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Lithuania",
+    "continent": "Europe",
+    "population": 2862274,
+    "landArea": 62680,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Luxembourg",
+    "continent": "Europe",
+    "population": 660809,
+    "landArea": 2586,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Madagascar",
+    "continent": "Africa",
+    "population": 26923353,
+    "landArea": 581540,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Malawi",
+    "continent": "Africa",
+    "population": 21507723,
+    "landArea": 94080,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Malaysia",
+    "continent": "Asia",
+    "population": 33037300,
+    "landArea": 329613,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Maldives",
+    "continent": "Asia",
+    "population": 397372,
+    "landArea": 298,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Mali",
+    "continent": "Africa",
+    "population": 22594000,
+    "landArea": 1220190,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Malta",
+    "continent": "Europe",
+    "population": 519562,
+    "landArea": 316,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Marshall Islands",
+    "continent": "Oceania",
+    "population": 39262,
+    "landArea": 181,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Mauritania",
+    "continent": "Africa",
+    "population": 4372037,
+    "landArea": 1025520,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Mauritius",
+    "continent": "Africa",
+    "population": 1261196,
+    "landArea": 2030,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Mexico",
+    "continent": "North America",
+    "population": 128665641,
+    "landArea": 1943945,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Micronesia",
+    "continent": "Oceania",
+    "population": 105754,
+    "landArea": 702,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Moldova",
+    "continent": "Europe",
+    "population": 2597100,
+    "landArea": 32891,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Monaco",
+    "continent": "Europe",
+    "population": 39150,
+    "landArea": 2,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Mongolia",
+    "continent": "Asia",
+    "population": 3497600,
+    "landArea": 1553556,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Montenegro",
+    "continent": "Europe",
+    "population": 617683,
+    "landArea": 13452,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Morocco",
+    "continent": "Africa",
+    "population": 36956969,
+    "landArea": 446300,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Mozambique",
+    "continent": "Africa",
+    "population": 32419747,
+    "landArea": 786380,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Myanmar (formerly Burma)",
+    "continent": "Asia",
+    "population": 55770232,
+    "landArea": 653508,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Namibia",
+    "continent": "Africa",
+    "population": 2550226,
+    "landArea": 823290,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Nauru",
+    "continent": "Oceania",
+    "population": 11832,
+    "landArea": 21,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Nepal",
+    "continent": "Asia",
+    "population": 29164578,
+    "landArea": 143686,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Netherlands",
+    "continent": "Europe",
+    "population": 17868940,
+    "landArea": 33893,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "New Zealand",
+    "continent": "Oceania",
+    "population": 5165828,
+    "landArea": 262443,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Nicaragua",
+    "continent": "North America",
+    "population": 6595674,
+    "landArea": 119990,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Niger",
+    "continent": "Africa",
+    "population": 24112753,
+    "landArea": 1266700,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Nigeria",
+    "continent": "Africa",
+    "population": 218541000,
+    "landArea": 910768,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "North Korea",
+    "continent": "Asia",
+    "population": 25660000,
+    "landArea": 120538,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "North Macedonia",
+    "continent": "Europe",
+    "population": 1832696,
+    "landArea": 25433,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Norway",
+    "continent": "Europe",
+    "population": 5504329,
+    "landArea": 365957,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Oman",
+    "continent": "Asia",
+    "population": 5009188,
+    "landArea": 309500,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Pakistan",
+    "continent": "Asia",
+    "population": 239017494,
+    "landArea": 856690,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Palau",
+    "continent": "Oceania",
+    "population": 16733,
+    "landArea": 459,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Palestine State",
+    "continent": "Asia",
+    "population": 5483450,
+    "landArea": 6000,
+    "landlocked": "?",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Panama",
+    "continent": "North America",
+    "population": 4278500,
+    "landArea": 74340,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Papua New Guinea",
+    "continent": "Asia",
+    "population": 9122994,
+    "landArea": 452860,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Paraguay",
+    "continent": "South America",
+    "population": 7353038,
+    "landArea": 397302,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Peru",
+    "continent": "South America",
+    "population": 33396698,
+    "landArea": 1279996,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Philippines",
+    "continent": "Asia",
+    "population": 110587187,
+    "landArea": 298170,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Poland",
+    "continent": "Europe",
+    "population": 37738000,
+    "landArea": 311888,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Portugal",
+    "continent": "Europe",
+    "population": 10421117,
+    "landArea": 91119,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Qatar",
+    "continent": "Asia",
+    "population": 2799202,
+    "landArea": 11586,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Romania",
+    "continent": "Europe",
+    "population": 19053815,
+    "landArea": 231291,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Russia",
+    "continent": [
+      "Europe",
+      "Asia"
+    ],
+    "population": 146424729,
+    "landArea": 16378410,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Rwanda",
+    "continent": "Africa",
+    "population": 13246394,
+    "landArea": 24668,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "continent": "North America",
+    "population": 48000,
+    "landArea": 261,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Saint Lucia",
+    "continent": "North America",
+    "population": 178696,
+    "landArea": 606,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "continent": "North America",
+    "population": 110696,
+    "landArea": 389,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Samoa",
+    "continent": "Oceania",
+    "population": 205557,
+    "landArea": 2821,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "San Marino",
+    "continent": "Europe",
+    "population": 33823,
+    "landArea": 61,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "continent": "Africa",
+    "population": 214610,
+    "landArea": 964,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Saudi Arabia",
+    "continent": "Asia",
+    "population": 34110821,
+    "landArea": 2149690,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Senegal",
+    "continent": "Africa",
+    "population": 17223497,
+    "landArea": 192530,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Serbia",
+    "continent": "Europe",
+    "population": 6647003,
+    "landArea": 88246,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Seychelles",
+    "continent": "Africa",
+    "population": 100447,
+    "landArea": 455,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Sierra Leone",
+    "continent": "Africa",
+    "population": 8494260,
+    "landArea": 71620,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Singapore",
+    "continent": "Asia",
+    "population": 5453600,
+    "landArea": 716,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Slovakia",
+    "continent": "Europe",
+    "population": 5428792,
+    "landArea": 48105,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Slovenia",
+    "continent": "Europe",
+    "population": 2116972,
+    "landArea": 20151,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Solomon Islands",
+    "continent": "Oceania",
+    "population": 728041,
+    "landArea": 27986,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Somalia",
+    "continent": "Africa",
+    "population": 17598000,
+    "landArea": 627337,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "South Africa",
+    "continent": "Africa",
+    "population": 60604992,
+    "landArea": 1214470,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "South Korea",
+    "continent": "Asia",
+    "population": 51439038,
+    "landArea": 99909,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "South Sudan",
+    "continent": "Africa",
+    "population": 13249924,
+    "landArea": 644329,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Spain",
+    "continent": "Europe",
+    "population": 47615034,
+    "landArea": 498980,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Sri Lanka",
+    "continent": "Asia",
+    "population": 22181000,
+    "landArea": 62732,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Sudan",
+    "continent": "Africa",
+    "population": 45399675,
+    "landArea": 1731671,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Suriname",
+    "continent": "South America",
+    "population": 616500,
+    "landArea": 156000,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Sweden",
+    "continent": "Europe",
+    "population": 10533267,
+    "landArea": 407284,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Switzerland",
+    "continent": "Europe",
+    "population": 8812728,
+    "landArea": 39997,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Syria",
+    "continent": "Asia",
+    "population": 22125000,
+    "landArea": 183630,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Tajikistan",
+    "continent": "Asia",
+    "population": 9506000,
+    "landArea": 141510,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Tanzania",
+    "continent": "Africa",
+    "population": 61741120,
+    "landArea": 885800,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Thailand",
+    "continent": "Asia",
+    "population": 66001370,
+    "landArea": 510890,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Timor-Leste",
+    "continent": "Asia",
+    "population": 1336222,
+    "landArea": 14919,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Togo",
+    "continent": "Africa",
+    "population": 8095498,
+    "landArea": 54385,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Tonga",
+    "continent": "Oceania",
+    "population": 100179,
+    "landArea": 717,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "continent": "North America",
+    "population": 1365805,
+    "landArea": 5128,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Tunisia",
+    "continent": "Africa",
+    "population": 11803588,
+    "landArea": 155360,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Turkey",
+    "continent": [
+      "Europe",
+      "Asia"
+    ],
+    "population": 85279553,
+    "landArea": 769632,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Turkmenistan",
+    "continent": "Asia",
+    "population": 6431000,
+    "landArea": 469930,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Tuvalu",
+    "continent": "Oceania",
+    "population": 10679,
+    "landArea": 26,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Uganda",
+    "continent": "Africa",
+    "population": 42885900,
+    "landArea": 197100,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Ukraine",
+    "continent": "Europe",
+    "population": 41130432,
+    "landArea": 579300,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "United Arab Emirates",
+    "continent": "Asia",
+    "population": 9282410,
+    "landArea": 83600,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "United Kingdom",
+    "continent": "Europe",
+    "population": 67026292,
+    "landArea": 241930,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "United States of America",
+    "continent": "North America",
+    "population": 334769000,
+    "landArea": 9147593,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Uruguay",
+    "continent": "South America",
+    "population": 3554915,
+    "landArea": 175015,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Uzbekistan",
+    "continent": "Asia",
+    "population": 36224972,
+    "landArea": 425400,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Vanuatu",
+    "continent": "Oceania",
+    "population": 301295,
+    "landArea": 12189,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Venezuela",
+    "continent": "South America",
+    "population": 28302000,
+    "landArea": 882050,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Vietnam",
+    "continent": "Asia",
+    "population": 99460000,
+    "landArea": 310070,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Yemen",
+    "continent": "Asia",
+    "population": 33697000,
+    "landArea": 555000,
+    "landlocked": "No",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Zambia",
+    "continent": "Africa",
+    "population": 19610769,
+    "landArea": 743398,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  },
+  {
+    "name": "Zimbabwe",
+    "continent": "Africa",
+    "population": 15178979,
+    "landArea": 386847,
+    "landlocked": "Yes",
+    "flagColours": "",
+    "alias": ""
+  }
+]
