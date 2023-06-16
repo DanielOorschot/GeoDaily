@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import countryJson from './countrydata.json';
 import { Country } from './helpers/TypeInterfaces';
+import CountryLine from './CountryLine';
 
 const App = () => {
 
@@ -12,11 +13,13 @@ const App = () => {
   todaysSeed.seed(date);
   var todaysNumber = todaysSeed(countryJson.length);
 
-  const [countryData, setCountryData] = useState<Country[]>([]);
+  const [countryData, setCountryData] = useState<Country[]>(countryJson);
 
+  /*
   useEffect(() => {
     setCountryData(countryJson);
   }, [])
+*/
 
   const blankCountry: Country = {
     name: '',
@@ -27,12 +30,13 @@ const App = () => {
 
   const [guess, setGuess] = useState('');
 
-  const [guessData, setGuessData] = useState(blankCountry);
+  const [guessData, setGuessData] = useState([blankCountry]);
 
   const makeGuess = (g: string) => {
     const found = countryData.find(({ name }) => name === g);
     if (found) {
-      setGuessData(found);
+      setGuessData([...guessData, found]);
+      
     }
 
   }
@@ -56,7 +60,7 @@ const App = () => {
         </label>
       </div>
       <div>
-        {guessData.name}
+        {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]}/>))}
       </div>
 
     </div>
