@@ -64,7 +64,10 @@
   },
   {
     "name": "Armenia",
-    "continent": "Europe",
+    "continent": [
+      "Europe",
+      "Asia"
+    ],
     "population": 2981200,
     "landArea": 28342,
     "landlocked": "Yes",

@@ -15,12 +15,6 @@ const App = () => {
 
   const [countryData, setCountryData] = useState<Country[]>(countryJson);
 
-  /*
-  useEffect(() => {
-    setCountryData(countryJson);
-  }, [])
-*/
-
   const blankCountry: Country = {
     name: '',
     continent: '',
@@ -36,7 +30,7 @@ const App = () => {
     const found = countryData.find(({ name }) => name === g);
     if (found) {
       setGuessData([...guessData, found]);
-      
+
     }
 
   }
@@ -45,9 +39,9 @@ const App = () => {
   return (
     <div>
       <div>
-      {countryData[todaysNumber].name}
-    </div>
-        
+        {countryData[todaysNumber].name}
+      </div>
+
       <div>
         <label>
           Guess:
@@ -60,7 +54,19 @@ const App = () => {
         </label>
       </div>
       <div>
-        {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]}/>))}
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Continent</th>
+              <th>Population</th>
+              <th>Land Area</th>
+            </tr>
+          </thead>
+          <tbody>
+            {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]} />))}
+          </tbody>
+        </table>
       </div>
 
     </div>
