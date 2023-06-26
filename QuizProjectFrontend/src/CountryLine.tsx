@@ -62,7 +62,9 @@ const CountryLine = ({ guessInfo, correctInfo }: CountryLineProps) => {
                 continentLine = <div className='CountryLine-incorrect'>{guessInfo.continent[0]}-{guessInfo.continent[1]}</div>
             }
         }
-        continentLine = <div>{guessInfo.continent[0]}-{guessInfo.continent[1]}</div>
+        else {
+            continentLine = <div>{guessInfo.continent[0]}-{guessInfo.continent[1]}</div>
+        }
     }
 
     return (

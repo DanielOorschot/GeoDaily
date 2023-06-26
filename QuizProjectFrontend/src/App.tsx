@@ -4,6 +4,7 @@ import './App.css';
 import countryJson from './countrydata.json';
 import { Country } from './helpers/TypeInterfaces';
 import CountryLine from './CountryLine';
+import './App.scss'
 
 const App = () => {
 
@@ -37,38 +38,33 @@ const App = () => {
 
 
   return (
-    <div>
-      <div>
-        {countryData[todaysNumber].name}
+    <div className='animatedBackground'>
+      <div className='center'>
+        <div className='tableContainer'>
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Continent</th>
+                <th>Population</th>
+                <th>Land Area</th>
+              </tr>
+            </thead>
+            <tbody>
+              {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]} />))}
+            </tbody>
+          </table>
+          <label>
+            Guess:
+            <input
+              onChange={e => setGuess(e.target.value)}
+            />
+            <button onClick={() => makeGuess(guess)}>
+              Make Guess
+            </button>
+          </label>
+        </div>
       </div>
-
-      <div>
-        <label>
-          Guess:
-          <input
-            onChange={e => setGuess(e.target.value)}
-          />
-          <button onClick={() => makeGuess(guess)}>
-            Make Guess
-          </button>
-        </label>
-      </div>
-      <div>
-        <table>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Continent</th>
-              <th>Population</th>
-              <th>Land Area</th>
-            </tr>
-          </thead>
-          <tbody>
-            {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]} />))}
-          </tbody>
-        </table>
-      </div>
-
     </div>
   );
 }
