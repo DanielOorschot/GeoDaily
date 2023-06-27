@@ -1,4 +1,4 @@
-import { ReactFragment } from "react";
+import { JSXElementConstructor, ReactElement, ReactFragment } from "react";
 import { JSX } from "react/jsx-runtime";
 import { Country } from "./helpers/TypeInterfaces"
 import { BsFillArrowUpSquareFill, BsFillArrowDownSquareFill } from "react-icons/bs";
@@ -67,6 +67,8 @@ const CountryLine = ({ guessInfo, correctInfo }: CountryLineProps) => {
         }
     }
 
+    var flagColoursLine = <div>{guessInfo.flagColours}</div>;
+
     return (
         <tr>
             <td>
@@ -80,6 +82,9 @@ const CountryLine = ({ guessInfo, correctInfo }: CountryLineProps) => {
             </td>
             <td>
                 {landAreaLine}
+            </td>
+            <td>
+                {flagColoursLine}
             </td>
         </tr>
     )

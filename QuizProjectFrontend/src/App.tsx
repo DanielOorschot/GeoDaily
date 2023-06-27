@@ -20,7 +20,8 @@ const App = () => {
     name: '',
     continent: '',
     population: 0,
-    landArea: 0
+    landArea: 0,
+    flagColours: []
   }
 
   const [guess, setGuess] = useState('');
