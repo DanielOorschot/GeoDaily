@@ -34,6 +34,9 @@ const App = () => {
       setGuessData([...guessData, found]);
 
     }
+    if (g === countryData[todaysNumber].name) {
+
+    }
 
   }
 
@@ -49,21 +52,26 @@ const App = () => {
                 <th>Continent</th>
                 <th>Population</th>
                 <th>Land Area</th>
+                <th>Flag Colours</th>
               </tr>
             </thead>
             <tbody>
               {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]} />))}
             </tbody>
+            <tfoot>
+              <tr>
+                <td colSpan={5} align='center'><label>
+                  Guess: 
+                  <input
+                    onChange={e => setGuess(e.target.value)}
+                  />
+                  <button onClick={() => makeGuess(guess)}>
+                    Make Guess
+                  </button>
+                </label></td>
+              </tr>
+            </tfoot>
           </table>
-          <label>
-            Guess:
-            <input
-              onChange={e => setGuess(e.target.value)}
-            />
-            <button onClick={() => makeGuess(guess)}>
-              Make Guess
-            </button>
-          </label>
         </div>
       </div>
     </div>
