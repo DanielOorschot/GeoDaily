@@ -4,6 +4,6 @@ export interface Country {
     population: number;
     landArea: number;
     landlocked?: string;
-    flagColours?: string;
-    alias?:  string;
+    flagColours: string[];
+    alias?:  string[];
 }

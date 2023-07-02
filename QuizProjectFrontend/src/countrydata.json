@@ -5,8 +5,12 @@
     "population": 32890171,
     "landArea": 652867,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Albania",
@@ -14,8 +18,10 @@
     "population": 2793592,
     "landArea": 27398,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Red"
+    ]
   },
   {
     "name": "Algeria",
@@ -23,8 +29,11 @@
     "population": 45400000,
     "landArea": 2381741,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Andorra",
@@ -32,8 +41,11 @@
     "population": 82041,
     "landArea": 468,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Angola",
@@ -41,8 +53,11 @@
     "population": 33086278,
     "landArea": 1246700,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Yellow"
+    ]
   },
   {
     "name": "Antigua and Barbuda",
@@ -50,8 +65,13 @@
     "population": 100772,
     "landArea": 442,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Blue",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Argentina",
@@ -59,17 +79,25 @@
     "population": 46044703,
     "landArea": 2736690,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Light Blue",
+      "White"
+    ]
   },
   {
     "name": "Armenia",
-    "continent": "Europe",
+    "continent": [
+      "Europe",
+      "Asia"
+    ],
     "population": 2981200,
     "landArea": 28342,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "Orange"
+    ]
   },
   {
     "name": "Australia",
@@ -77,8 +105,11 @@
     "population": 26483860,
     "landArea": 7633565,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Austria",
@@ -86,8 +117,10 @@
     "population": 9106126,
     "landArea": 82445,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Azerbaijan",
@@ -95,8 +128,11 @@
     "population": 10135373,
     "landArea": 86100,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Light Blue",
+      "Green",
+      "Red"
+    ]
   },
   {
     "name": "Bahamas",
@@ -104,8 +140,11 @@
     "population": 397360,
     "landArea": 10010,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Blue",
+      "Yellow"
+    ]
   },
   {
     "name": "Bahrain",
@@ -113,8 +152,10 @@
     "population": 1501635,
     "landArea": 786,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Bangladesh",
@@ -122,8 +163,10 @@
     "population": 169828911,
     "landArea": 134208,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green"
+    ]
   },
   {
     "name": "Barbados",
@@ -131,8 +174,11 @@
     "population": 282000,
     "landArea": 431,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Black",
+      "Yellow"
+    ]
   },
   {
     "name": "Belarus",
@@ -140,8 +186,11 @@
     "population": 9200617,
     "landArea": 202900,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Belgium",
@@ -149,8 +198,11 @@
     "population": 11750239,
     "landArea": 30278,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Belize",
@@ -158,8 +210,11 @@
     "population": 441471,
     "landArea": 22806,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Benin",
@@ -167,8 +222,11 @@
     "population": 12506347,
     "landArea": 114305,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Bhutan",
@@ -176,8 +234,11 @@
     "population": 763200,
     "landArea": 38394,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Fulvous",
+      "Yellow",
+      "White"
+    ]
   },
   {
     "name": "Bolivia",
@@ -185,8 +246,11 @@
     "population": 12006031,
     "landArea": 1083301,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -194,8 +258,11 @@
     "population": 3320954,
     "landArea": 51187,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Botswana",
@@ -203,8 +270,11 @@
     "population": 2410338,
     "landArea": 566730,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Light Blue",
+      "Black",
+      "White"
+    ]
   },
   {
     "name": "Brazil",
@@ -212,8 +282,11 @@
     "population": 216152854,
     "landArea": 8460415,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Blue",
+      "Yellow"
+    ]
   },
   {
     "name": "Brunei",
@@ -221,8 +294,12 @@
     "population": 440715,
     "landArea": 5265,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Black",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Bulgaria",
@@ -230,8 +307,11 @@
     "population": 6447710,
     "landArea": 108612,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Green",
+      "Red"
+    ]
   },
   {
     "name": "Burkina Faso",
@@ -239,8 +319,11 @@
     "population": 22185654,
     "landArea": 273602,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Burundi",
@@ -248,8 +331,11 @@
     "population": 12574571,
     "landArea": 25680,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Côte d'Ivoire",
@@ -257,8 +343,14 @@
     "population": 29389150,
     "landArea": 318003,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": "Ivory Coast"
+    "flagColours": [
+      "Orange",
+      "Green",
+      "White"
+    ],
+    "alias": [
+      "Ivory Coast"
+    ]
   },
   {
     "name": "Cabo Verde",
@@ -266,8 +358,12 @@
     "population": 569509,
     "landArea": 4033,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Cambodia",
@@ -275,8 +371,11 @@
     "population": 15552211,
     "landArea": 176515,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Cameroon",
@@ -284,8 +383,11 @@
     "population": 24348251,
     "landArea": 472710,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Canada",
@@ -293,8 +395,10 @@
     "population": 39906849,
     "landArea": 9093507,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Central African Republic",
@@ -302,8 +406,13 @@
     "population": 5633412,
     "landArea": 622984,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Chad",
@@ -311,8 +420,11 @@
     "population": 16818391,
     "landArea": 1259200,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Chile",
@@ -320,8 +432,11 @@
     "population": 19960889,
     "landArea": 743812,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "China",
@@ -329,8 +444,10 @@
     "population": 1411750000,
     "landArea": 9326410,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Colombia",
@@ -338,8 +455,11 @@
     "population": 52215503,
     "landArea": 1038700,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Comoros",
@@ -347,8 +467,13 @@
     "population": 758316,
     "landArea": 1862,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Blue",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Congo",
@@ -356,8 +481,15 @@
     "population": 5970000,
     "landArea": 341500,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": "Congo-Brazzaville"
+    "flagColours": [
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "alias": [
+      "Congo-Brazzaville",
+      "Republic Of The Congo"
+    ]
   },
   {
     "name": "Costa Rica",
@@ -365,8 +497,11 @@
     "population": 5213362,
     "landArea": 51060,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Croatia",
@@ -374,8 +509,11 @@
     "population": 3871833,
     "landArea": 55974,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Cuba",
@@ -383,8 +521,11 @@
     "population": 11089511,
     "landArea": 109884,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Cyprus",
@@ -395,8 +536,11 @@
     "population": 918100,
     "landArea": 9241,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "White",
+      "Green"
+    ]
   },
   {
     "name": "Czechia",
@@ -404,8 +548,12 @@
     "population": 10533399,
     "landArea": 77171,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": "Czech Republic"
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ],
+    "alias": ["Czech Republic"]
   },
   {
     "name": "Democratic Republic of the Congo",
@@ -413,8 +561,11 @@
     "population": 99010000,
     "landArea": 2267048,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Denmark",
@@ -422,8 +573,10 @@
     "population": 5941388,
     "landArea": 42434,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Djibouti",
@@ -431,8 +584,12 @@
     "population": 1001454,
     "landArea": 23180,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Light Blue",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Dominica",
@@ -440,8 +597,13 @@
     "population": 73000,
     "landArea": 751,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Dominican Republic",
@@ -449,8 +611,11 @@
     "population": 10535535,
     "landArea": 48320,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Ecuador",
@@ -458,8 +623,11 @@
     "population": 18293879,
     "landArea": 256369,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Egypt",
@@ -470,8 +638,12 @@
     "population": 104822069,
     "landArea": 995450,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Yellow",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "El Salvador",
@@ -479,8 +651,14 @@
     "population": 6884888,
     "landArea": 20721,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Yellow",
+      "White",
+      "Green",
+      "Red",
+      "Black"
+    ]
   },
   {
     "name": "Equatorial Guinea",
@@ -488,8 +666,12 @@
     "population": 1505588,
     "landArea": 28051,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Green",
+      "Red",
+      "Blue"
+    ]
   },
   {
     "name": "Eritrea",
@@ -497,8 +679,12 @@
     "population": 3684000,
     "landArea": 125000,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Estonia",
@@ -506,17 +692,28 @@
     "population": 1357739,
     "landArea": 42388,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Black",
+      "White"
+    ]
   },
   {
-    "name": "Eswatini (fmr. \"Swaziland\")",
+    "name": "Eswatini",
     "continent": "Africa",
     "population": 1202000,
     "landArea": 17204,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Blue",
+      "Red",
+      "White",
+      "Yellow"
+    ],
+    "alias": [
+      "Swaziland"
+    ]
   },
   {
     "name": "Ethiopia",
@@ -524,8 +721,12 @@
     "population": 105163988,
     "landArea": 1096630,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Fiji",
@@ -533,8 +734,12 @@
     "population": 893468,
     "landArea": 18274,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Light Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Finland",
@@ -542,8 +747,10 @@
     "population": 5538238,
     "landArea": 303816,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Blue"
+    ]
   },
   {
     "name": "France",
@@ -551,8 +758,11 @@
     "population": 68042591,
     "landArea": 640427,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Gabon",
@@ -560,8 +770,11 @@
     "population": 2233272,
     "landArea": 257667,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Blue",
+      "Yellow"
+    ]
   },
   {
     "name": "Gambia",
@@ -569,17 +782,26 @@
     "population": 2706000,
     "landArea": 10000,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Georgia",
-    "continent": "[Asia,Europe]",
+    "continent": [
+      "Asia",
+      "Europe"
+    ],
     "population": 3688600,
     "landArea": 69700,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Germany",
@@ -587,8 +809,11 @@
     "population": 84270625,
     "landArea": 348672,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Gold",
+      "Red"
+    ]
   },
   {
     "name": "Ghana",
@@ -596,8 +821,12 @@
     "population": 30832019,
     "landArea": 227533,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Greece",
@@ -605,8 +834,10 @@
     "population": 10482487,
     "landArea": 130647,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Grenada",
@@ -614,8 +845,11 @@
     "population": 125000,
     "landArea": 344,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Guatemala",
@@ -623,8 +857,10 @@
     "population": 17109746,
     "landArea": 107159,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Guinea",
@@ -632,8 +868,11 @@
     "population": 12907395,
     "landArea": 245717,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Guinea-Bissau",
@@ -641,8 +880,12 @@
     "population": 1646077,
     "landArea": 28120,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Guyana",
@@ -650,8 +893,13 @@
     "population": 743699,
     "landArea": 196849,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Haiti",
@@ -659,8 +907,10 @@
     "population": 11743017,
     "landArea": 27560,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Holy See",
@@ -668,8 +918,10 @@
     "population": 825,
     "landArea": 0,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "White"
+    ]
   },
   {
     "name": "Honduras",
@@ -677,8 +929,10 @@
     "population": 9546178,
     "landArea": 111890,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Hungary",
@@ -686,8 +940,11 @@
     "population": 9678000,
     "landArea": 89608,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Iceland",
@@ -695,8 +952,11 @@
     "population": 390830,
     "landArea": 100250,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "India",
@@ -704,8 +964,12 @@
     "population": 1392329000,
     "landArea": 2973190,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Green",
+      "Orange",
+      "White"
+    ]
   },
   {
     "name": "Indonesia",
@@ -713,8 +977,10 @@
     "population": 277749853,
     "landArea": 1811569,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Iran",
@@ -722,8 +988,11 @@
     "population": 86443940,
     "landArea": 1531595,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Iraq",
@@ -731,8 +1000,12 @@
     "population": 41190700,
     "landArea": 437367,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Ireland",
@@ -740,8 +1013,11 @@
     "population": 5123536,
     "landArea": 68883,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Orange",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Israel",
@@ -749,8 +1025,10 @@
     "population": 9722240,
     "landArea": 20330,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Italy",
@@ -758,8 +1036,11 @@
     "population": 58815463,
     "landArea": 294140,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Jamaica",
@@ -767,8 +1048,11 @@
     "population": 2727503,
     "landArea": 10831,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Gold"
+    ]
   },
   {
     "name": "Japan",
@@ -776,8 +1060,10 @@
     "population": 124470000,
     "landArea": 364546,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Jordan",
@@ -785,8 +1071,12 @@
     "population": 11395642,
     "landArea": 88802,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Kazakhstan",
@@ -794,8 +1084,10 @@
     "population": 19859260,
     "landArea": 2699700,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Yellow"
+    ]
   },
   {
     "name": "Kenya",
@@ -803,8 +1095,12 @@
     "population": 47564296,
     "landArea": 569140,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Kiribati",
@@ -812,8 +1108,12 @@
     "population": 120740,
     "landArea": 811,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "Gold",
+      "White"
+    ]
   },
   {
     "name": "Kuwait",
@@ -821,8 +1121,12 @@
     "population": 4670713,
     "landArea": 17818,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Kyrgyzstan",
@@ -830,8 +1134,10 @@
     "population": 7100000,
     "landArea": 191801,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Laos",
@@ -839,8 +1145,11 @@
     "population": 7337783,
     "landArea": 230800,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Latvia",
@@ -848,8 +1157,10 @@
     "population": 1885400,
     "landArea": 62249,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Lebanon",
@@ -857,8 +1168,11 @@
     "population": 5490000,
     "landArea": 10230,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Lesotho",
@@ -866,8 +1180,12 @@
     "population": 2306000,
     "landArea": 30355,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Black",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Liberia",
@@ -875,8 +1193,11 @@
     "population": 4661010,
     "landArea": 96320,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Libya",
@@ -884,8 +1205,12 @@
     "population": 6812000,
     "landArea": 1759540,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Liechtenstein",
@@ -893,8 +1218,10 @@
     "population": 39680,
     "landArea": 160,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Lithuania",
@@ -902,8 +1229,11 @@
     "population": 2862274,
     "landArea": 62680,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Green",
+      "Red"
+    ]
   },
   {
     "name": "Luxembourg",
@@ -911,8 +1241,11 @@
     "population": 660809,
     "landArea": 2586,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Light Blue",
+      "White"
+    ]
   },
   {
     "name": "Madagascar",
@@ -920,8 +1253,11 @@
     "population": 26923353,
     "landArea": 581540,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Malawi",
@@ -929,8 +1265,11 @@
     "population": 21507723,
     "landArea": 94080,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red"
+    ]
   },
   {
     "name": "Malaysia",
@@ -938,8 +1277,12 @@
     "population": 33037300,
     "landArea": 329613,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Dark Blue",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Maldives",
@@ -947,8 +1290,11 @@
     "population": 397372,
     "landArea": 298,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White",
+      "Green"
+    ]
   },
   {
     "name": "Mali",
@@ -956,8 +1302,11 @@
     "population": 22594000,
     "landArea": 1220190,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Malta",
@@ -965,8 +1314,10 @@
     "population": 519562,
     "landArea": 316,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Marshall Islands",
@@ -974,8 +1325,11 @@
     "population": 39262,
     "landArea": 181,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Orange",
+      "White"
+    ]
   },
   {
     "name": "Mauritania",
@@ -983,8 +1337,11 @@
     "population": 4372037,
     "landArea": 1025520,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Mauritius",
@@ -992,8 +1349,12 @@
     "population": 1261196,
     "landArea": 2030,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Mexico",
@@ -1001,8 +1362,11 @@
     "population": 128665641,
     "landArea": 1943945,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Micronesia",
@@ -1010,8 +1374,10 @@
     "population": 105754,
     "landArea": 702,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Light Blue",
+      "White"
+    ]
   },
   {
     "name": "Moldova",
@@ -1019,8 +1385,12 @@
     "population": 2597100,
     "landArea": 32891,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Gold",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Monaco",
@@ -1028,8 +1398,10 @@
     "population": 39150,
     "landArea": 2,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Mongolia",
@@ -1037,8 +1409,11 @@
     "population": 3497600,
     "landArea": 1553556,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Montenegro",
@@ -1046,8 +1421,10 @@
     "population": 617683,
     "landArea": 13452,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Gold"
+    ]
   },
   {
     "name": "Morocco",
@@ -1055,8 +1432,10 @@
     "population": 36956969,
     "landArea": 446300,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green"
+    ]
   },
   {
     "name": "Mozambique",
@@ -1064,17 +1443,29 @@
     "population": 32419747,
     "landArea": 786380,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
-    "name": "Myanmar (formerly Burma)",
+    "name": "Myanmar",
     "continent": "Asia",
     "population": 55770232,
     "landArea": 653508,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Green",
+      "Red",
+      "White"
+    ],
+    "alias": [
+      "Burma"
+    ]
   },
   {
     "name": "Namibia",
@@ -1082,8 +1473,13 @@
     "population": 2550226,
     "landArea": 823290,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Nauru",
@@ -1091,8 +1487,11 @@
     "population": 11832,
     "landArea": 21,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Nepal",
@@ -1100,8 +1499,11 @@
     "population": 29164578,
     "landArea": 143686,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Netherlands",
@@ -1109,8 +1511,11 @@
     "population": 17868940,
     "landArea": 33893,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "New Zealand",
@@ -1118,8 +1523,11 @@
     "population": 5165828,
     "landArea": 262443,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Nicaragua",
@@ -1127,8 +1535,10 @@
     "population": 6595674,
     "landArea": 119990,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Niger",
@@ -1136,8 +1546,11 @@
     "population": 24112753,
     "landArea": 1266700,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Orange",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Nigeria",
@@ -1145,8 +1558,10 @@
     "population": 218541000,
     "landArea": 910768,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "North Korea",
@@ -1154,8 +1569,11 @@
     "population": 25660000,
     "landArea": 120538,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "North Macedonia",
@@ -1163,8 +1581,10 @@
     "population": 1832696,
     "landArea": 25433,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Norway",
@@ -1172,8 +1592,11 @@
     "population": 5504329,
     "landArea": 365957,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Oman",
@@ -1181,8 +1604,11 @@
     "population": 5009188,
     "landArea": 309500,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Pakistan",
@@ -1190,8 +1616,10 @@
     "population": 239017494,
     "landArea": 856690,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Palau",
@@ -1199,17 +1627,23 @@
     "population": 16733,
     "landArea": 459,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Blue"
+    ]
   },
   {
-    "name": "Palestine State",
+    "name": "Palestine",
     "continent": "Asia",
     "population": 5483450,
     "landArea": 6000,
     "landlocked": "?",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Panama",
@@ -1217,8 +1651,11 @@
     "population": 4278500,
     "landArea": 74340,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Papua New Guinea",
@@ -1226,8 +1663,12 @@
     "population": 9122994,
     "landArea": 452860,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Paraguay",
@@ -1235,8 +1676,11 @@
     "population": 7353038,
     "landArea": 397302,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Peru",
@@ -1244,8 +1688,10 @@
     "population": 33396698,
     "landArea": 1279996,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Philippines",
@@ -1253,8 +1699,12 @@
     "population": 110587187,
     "landArea": 298170,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Poland",
@@ -1262,8 +1712,10 @@
     "population": 37738000,
     "landArea": 311888,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Red"
+    ]
   },
   {
     "name": "Portugal",
@@ -1271,8 +1723,11 @@
     "population": 10421117,
     "landArea": 91119,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Qatar",
@@ -1280,8 +1735,10 @@
     "population": 2799202,
     "landArea": 11586,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Maroon",
+      "White"
+    ]
   },
   {
     "name": "Romania",
@@ -1289,8 +1746,11 @@
     "population": 19053815,
     "landArea": 231291,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Russia",
@@ -1301,8 +1761,11 @@
     "population": 146424729,
     "landArea": 16378410,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Rwanda",
@@ -1310,8 +1773,11 @@
     "population": 13246394,
     "landArea": 24668,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Sky Blue",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -1319,8 +1785,12 @@
     "population": 48000,
     "landArea": 261,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Saint Lucia",
@@ -1328,8 +1798,12 @@
     "population": 178696,
     "landArea": 606,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Light Blue",
+      "Black",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -1337,8 +1811,11 @@
     "population": 110696,
     "landArea": 389,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Samoa",
@@ -1346,8 +1823,11 @@
     "population": 205557,
     "landArea": 2821,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "San Marino",
@@ -1355,8 +1835,10 @@
     "population": 33823,
     "landArea": 61,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Light Blue"
+    ]
   },
   {
     "name": "Sao Tome and Principe",
@@ -1364,8 +1846,12 @@
     "population": 214610,
     "landArea": 964,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Saudi Arabia",
@@ -1373,8 +1859,10 @@
     "population": 34110821,
     "landArea": 2149690,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Senegal",
@@ -1382,8 +1870,11 @@
     "population": 17223497,
     "landArea": 192530,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Serbia",
@@ -1391,8 +1882,11 @@
     "population": 6647003,
     "landArea": 88246,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Seychelles",
@@ -1400,8 +1894,13 @@
     "population": 100447,
     "landArea": 455,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Sierra Leone",
@@ -1409,8 +1908,11 @@
     "population": 8494260,
     "landArea": 71620,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Singapore",
@@ -1418,8 +1920,10 @@
     "population": 5453600,
     "landArea": 716,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Slovakia",
@@ -1427,8 +1931,11 @@
     "population": 5428792,
     "landArea": 48105,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Slovenia",
@@ -1436,8 +1943,11 @@
     "population": 2116972,
     "landArea": 20151,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Solomon Islands",
@@ -1445,8 +1955,12 @@
     "population": 728041,
     "landArea": 27986,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Blue",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Somalia",
@@ -1454,8 +1968,10 @@
     "population": 17598000,
     "landArea": 627337,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "South Africa",
@@ -1463,8 +1979,14 @@
     "population": 60604992,
     "landArea": 1214470,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Blue",
+      "Gold",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "South Korea",
@@ -1472,8 +1994,12 @@
     "population": 51439038,
     "landArea": 99909,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "White",
+      "Black",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "South Sudan",
@@ -1481,8 +2007,14 @@
     "population": 13249924,
     "landArea": 644329,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Black",
+      "Blue",
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Spain",
@@ -1490,8 +2022,10 @@
     "population": 47615034,
     "landArea": 498980,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Gold"
+    ]
   },
   {
     "name": "Sri Lanka",
@@ -1499,8 +2033,12 @@
     "population": 22181000,
     "landArea": 62732,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Maroon",
+      "Gold",
+      "Green",
+      "Orange"
+    ]
   },
   {
     "name": "Sudan",
@@ -1508,8 +2046,12 @@
     "population": 45399675,
     "landArea": 1731671,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Suriname",
@@ -1517,8 +2059,12 @@
     "population": 616500,
     "landArea": 156000,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Gold",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Sweden",
@@ -1526,8 +2072,10 @@
     "population": 10533267,
     "landArea": 407284,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Gold"
+    ]
   },
   {
     "name": "Switzerland",
@@ -1535,8 +2083,10 @@
     "population": 8812728,
     "landArea": 39997,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Syria",
@@ -1544,8 +2094,12 @@
     "population": 22125000,
     "landArea": 183630,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "Tajikistan",
@@ -1553,8 +2107,12 @@
     "population": 9506000,
     "landArea": 141510,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Gold",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Tanzania",
@@ -1562,8 +2120,12 @@
     "population": 61741120,
     "landArea": 885800,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Blue",
+      "Yellow"
+    ]
   },
   {
     "name": "Thailand",
@@ -1571,8 +2133,11 @@
     "population": 66001370,
     "landArea": 510890,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Timor-Leste",
@@ -1580,8 +2145,12 @@
     "population": 1336222,
     "landArea": 14919,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Gold",
+      "Black",
+      "White"
+    ]
   },
   {
     "name": "Togo",
@@ -1589,8 +2158,12 @@
     "population": 8095498,
     "landArea": 54385,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Tonga",
@@ -1598,8 +2171,10 @@
     "population": 100179,
     "landArea": 717,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Trinidad and Tobago",
@@ -1607,8 +2182,11 @@
     "population": 1365805,
     "landArea": 5128,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "White"
+    ]
   },
   {
     "name": "Tunisia",
@@ -1616,8 +2194,10 @@
     "population": 11803588,
     "landArea": 155360,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Turkey",
@@ -1628,8 +2208,10 @@
     "population": 85279553,
     "landArea": 769632,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Turkmenistan",
@@ -1637,8 +2219,11 @@
     "population": 6431000,
     "landArea": 469930,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "White",
+      "Red"
+    ]
   },
   {
     "name": "Tuvalu",
@@ -1646,8 +2231,13 @@
     "population": 10679,
     "landArea": 26,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Dark Blue",
+      "Gold",
+      "Red",
+      "Sky Blue",
+      "White"
+    ]
   },
   {
     "name": "Uganda",
@@ -1655,8 +2245,12 @@
     "population": 42885900,
     "landArea": 197100,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   },
   {
     "name": "Ukraine",
@@ -1664,8 +2258,10 @@
     "population": 41130432,
     "landArea": 579300,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Yellow"
+    ]
   },
   {
     "name": "United Arab Emirates",
@@ -1673,8 +2269,12 @@
     "population": 9282410,
     "landArea": 83600,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "White"
+    ]
   },
   {
     "name": "United Kingdom",
@@ -1682,8 +2282,11 @@
     "population": 67026292,
     "landArea": 241930,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "United States of America",
@@ -1691,8 +2294,11 @@
     "population": 334769000,
     "landArea": 9147593,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Blue",
+      "White"
+    ]
   },
   {
     "name": "Uruguay",
@@ -1700,8 +2306,11 @@
     "population": 3554915,
     "landArea": 175015,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Gold",
+      "White"
+    ]
   },
   {
     "name": "Uzbekistan",
@@ -1709,8 +2318,12 @@
     "population": 36224972,
     "landArea": 425400,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Blue",
+      "Green",
+      "Red",
+      "White"
+    ]
   },
   {
     "name": "Vanuatu",
@@ -1718,8 +2331,12 @@
     "population": 301295,
     "landArea": 12189,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "Green",
+      "Yellow"
+    ]
   },
   {
     "name": "Venezuela",
@@ -1727,8 +2344,11 @@
     "population": 28302000,
     "landArea": 882050,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Yellow",
+      "Blue",
+      "Red"
+    ]
   },
   {
     "name": "Vietnam",
@@ -1736,8 +2356,10 @@
     "population": 99460000,
     "landArea": 310070,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Yellow"
+    ]
   },
   {
     "name": "Yemen",
@@ -1745,8 +2367,11 @@
     "population": 33697000,
     "landArea": 555000,
     "landlocked": "No",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Red",
+      "Black",
+      "White"
+    ]
   },
   {
     "name": "Zambia",
@@ -1754,8 +2379,12 @@
     "population": 19610769,
     "landArea": 743398,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Orange",
+      "Red"
+    ]
   },
   {
     "name": "Zimbabwe",
@@ -1763,7 +2392,12 @@
     "population": 15178979,
     "landArea": 386847,
     "landlocked": "Yes",
-    "flagColours": "",
-    "alias": ""
+    "flagColours": [
+      "Green",
+      "Black",
+      "Red",
+      "White",
+      "Yellow"
+    ]
   }
 ]
