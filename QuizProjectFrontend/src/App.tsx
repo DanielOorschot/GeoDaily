@@ -27,13 +27,34 @@ const App = () => {
 
   const [guessData, setGuessData] = useState([blankCountry]);
 
+  const [isGuessed, setIsGuessed] = useState(false);
+
   const makeGuess = (g: string) => {
     const found = countryData.find(({ name }) => name === g);
     if (found) {
       setGuessData([...guessData, found]);
 
     }
+    if (g == countryData[todaysNumber].name) {
+      setIsGuessed(true);
+    }
+  }
 
+  let guessButton;
+
+  if (isGuessed === false) {
+    guessButton = <label>
+    Guess:
+    <input
+      onChange={e => setGuess(e.target.value)}
+    />
+    <button onClick={() => makeGuess(guess)}>
+      Make Guess
+    </button>
+  </label>;
+  }
+  else {
+    guessButton = <div></div>;
   }
 
 
@@ -54,15 +75,7 @@ const App = () => {
               {guessData.slice(1).map((item, i) => (<CountryLine guessInfo={item} correctInfo={countryData[todaysNumber]} />))}
             </tbody>
           </table>
-          <label>
-            Guess:
-            <input
-              onChange={e => setGuess(e.target.value)}
-            />
-            <button onClick={() => makeGuess(guess)}>
-              Make Guess
-            </button>
-          </label>
+          {guessButton}
         </div>
       </div>
     </div>
