@@ -5,27 +5,38 @@ import numpy as np
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
-#dfs = pd.read_html(url, attrs = {'class':'wikitable sortable'}, flavor='bs4')
-#print(dfs[0])
+url_population = "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population"
 
-data = requests.get(url).text
-soup = BeautifulSoup(data, 'html.parser')
+data_population = requests.get(url_population).text
+soup_population = BeautifulSoup(data_population, 'html.parser')
 
-tables = soup.find_all('table')
-table = soup.find('table', class_='wikitable sortable')
+country_table=soup_population.find('table',{'class':"wikitable"})
 
-df = pd.DataFrame(columns=['Ranking','Country','Population', 'Percentage of World','Date'])
-for row in table.tbody.find_all('tr'):
-    columns = row.find_all('td')
-    if(columns != []):
-        ranking = columns[0].text.strip()
-        country = columns[1].text.strip()
-        population = columns[2].text.strip()
-        percentage_of_world = columns[3].text.strip()
-        date = columns[4].text.strip()
-        #comments = columns[6].text.strip()
+df_population = pd.read_html(str(country_table))
+df_population=pd.DataFrame(df_population[0])
+print(df_population.keys())
+print("table starts here")
+print(df_population.head())
+df2_population =  df_population.drop(["% of world","Date","Source (official or from the United Nations)", "Unnamed: 6"], axis=1)
+df2_population = df2_population.rename(columns={"Unnamed: 0":"Ranking"})
+print(df2_population.head())
 
-        df = pd.concat([df,pd.DataFrame.from_records([{'Ranking':ranking,'Country':country,'Population':population, 'Percentage of World':percentage_of_world,'Date':data}])])
+print("LANDAREA")
 
-df.head()
+url_landarea = "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area"
+
+data_landarea = requests.get(url_landarea).text
+soup_landarea = BeautifulSoup(data_landarea, 'html.parser')
+
+landarea_table=soup_landarea.find('table',{'class':"wikitable"})
+
+df_landarea = pd.read_html(str(landarea_table))
+df_landarea=pd.DataFrame(df_landarea[0])
+print(df_landarea.keys())
+print("table starts here")
+print(df_landarea.head(10))
+df2_landarea =  df_landarea.drop(["% water", "Unnamed: 6"], axis=1)
+df2_landarea = df2_landarea.rename(columns={"Unnamed: 0":"Ranking"})
+print(df2_landarea.head(10))
+
+
