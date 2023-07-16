@@ -14,7 +14,7 @@ if __name__ == '__main__':
     #open all
     flag_info = {}
     flag_colour_info = {}
-    fig, axs  = plt.subplots(nrows=142, ncols=1, figsize=(400, 300))
+    fig, axs  = plt.subplots(nrows=142, ncols=1, figsize=(300, 600))
     axs = axs.flatten()
     count = 0
     for infile in glob.glob("*.png"):
@@ -23,9 +23,11 @@ if __name__ == '__main__':
             imrgb = im.convert('RGB')
             imageplt = np.asarray(imrgb)
             colour_list = imrgb.getcolors()
+            colour_list.sort(reverse=True)
             num_pixels = imrgb.size[0] * imrgb.size[1]
             final_list = []
             name_list = []
+            print(file,":",colour_list)
             for i in range(len(colour_list)):
                 #threshold for colour inclusion needs adjusting
                 if colour_list[i][0] > (num_pixels/20):
