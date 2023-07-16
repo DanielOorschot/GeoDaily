@@ -27,10 +27,13 @@ if __name__ == '__main__':
             num_pixels = imrgb.size[0] * imrgb.size[1]
             final_list = []
             name_list = []
-            print(file,":",colour_list)
+            print(file)
+            print(num_pixels, "  1% = ",(num_pixels)/100 )
+            print(colour_list)
+            print()
             for i in range(len(colour_list)):
                 #threshold for colour inclusion needs adjusting
-                if colour_list[i][0] > (num_pixels/20):
+                if colour_list[i][0] > (num_pixels/100):
                     final_list.append(colour_list[i])
                     closest_colour = min(colour_rgb_list, key=lambda c: (c[0]-colour_list[i][1][0])**2 + (c[1]-colour_list[i][1][1])**2 + (c[2]-colour_list[i][1][2])**2)
                     name_list.append(colour_dict[closest_colour])
