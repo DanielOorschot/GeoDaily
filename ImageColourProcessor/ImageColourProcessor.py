@@ -7,8 +7,8 @@ if __name__ == '__main__':
     import numpy as np
 
     #codes are based on html colour list
-    colour_rgb_list = [(255, 255, 0),(0, 0, 255),(255, 0, 0),(0, 128, 0),(255,255,255),(0,0,0), (255, 165, 0), (135, 206, 235), (0, 0, 128), (128, 0, 0), (255,215,0)]
-    colour_dict = {(255, 255, 0): 'Yellow', (0, 0, 255):"Blue" ,(255, 0, 0):"Red",(0, 128, 0):"Green",(255,255,255):"White",(0,0,0):"Black",(255, 165, 0):"Orange",(135, 206, 235):"Sky Blue",(0, 0, 128):"Navy", (128, 0, 0):"Maroon", (255,215,0):"Gold"}
+    colour_dict = {(255, 255, 0): 'Yellow', (0, 0, 255):"Blue" ,(255, 0, 0):"Red",(0, 128, 0):"Green",(255,255,255):"White",(0,0,0):"Black",(255, 165, 0):"Orange",(135, 206, 235):"Sky Blue",(0, 0, 128):"Navy", (128, 0, 0):"Maroon", (255,215,0):"Gold",(220, 20, 60):"Crimson", (178, 34, 34):"FireBrick"}
+    colour_keys_list = list(colour_dict.keys())
     country_dict = {}
 
     #open all
@@ -35,7 +35,7 @@ if __name__ == '__main__':
                 #threshold for colour inclusion needs adjusting
                 if colour_list[i][0] > (num_pixels/100):
                     final_list.append(colour_list[i])
-                    closest_colour = min(colour_rgb_list, key=lambda c: (c[0]-colour_list[i][1][0])**2 + (c[1]-colour_list[i][1][1])**2 + (c[2]-colour_list[i][1][2])**2)
+                    closest_colour = min(colour_keys_list, key=lambda c: (c[0]-colour_list[i][1][0])**2 + (c[1]-colour_list[i][1][1])**2 + (c[2]-colour_list[i][1][2])**2)
                     name_list.append(colour_dict[closest_colour])
             empty_string =', '
             axs[count].imshow(imageplt)
