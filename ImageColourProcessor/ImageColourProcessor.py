@@ -14,9 +14,9 @@ if __name__ == '__main__':
     #open all
     flag_info = {}
     flag_colour_info = {}
-    #fig, axs  = plt.subplots(nrows=142, ncols=1, figsize=(500, 600))
-    #axs = axs.flatten()
-    #count = 0
+    fig, axs  = plt.subplots(nrows=142, ncols=1, figsize=(300, 500))
+    axs = axs.flatten()
+    count = 0
     for infile in glob.glob("*.png"):
         file, ext = os.path.splitext(infile)
         with Image.open(infile) as im:
@@ -30,16 +30,27 @@ if __name__ == '__main__':
             print(file)
             print(num_pixels, "  1% = ",(num_pixels)/100 )
             print(colour_list)
+            flag_colour_dict = {}
+            #loop to put very similar coloured pixels under same colour name
             for i in range(len(colour_list)):
                 #threshold for colour inclusion needs adjusting
-                if colour_list[i][0] > (num_pixels/100):
-                    final_list.append(colour_list[i])
-                    closest_colour = min(colour_keys_list, key=lambda c: (c[0]-colour_list[i][1][0])**2 + (c[1]-colour_list[i][1][1])**2 + (c[2]-colour_list[i][1][2])**2)
-                    name_list.append(colour_dict[closest_colour])
+                #if colour_list[i][0] > (num_pixels/100):
+                final_list.append(colour_list[i])
+
+
+                closest_colour = min(colour_keys_list, key=lambda c: (c[0]-colour_list[i][1][0])**2 + (c[1]-colour_list[i][1][1])**2 + (c[2]-colour_list[i][1][2])**2)
+                num_colour_pixels = colour_list[i][0]
+                if closest_colour in flag_colour_dict:
+                    flag_colour_dict[closest_colour] += num_colour_pixels
+                else:
+                    flag_colour_dict[closest_colour] = num_colour_pixels
+            for key in flag_colour_dict:
+                if flag_colour_dict[key] > num_pixels/100:
+                    name_list.append(colour_dict[flag_colour_dict[key]])
             empty_string =', '
-            #axs[count].imshow(imageplt)
-            #axs[count].set(title=(file+": "+empty_string.join(name_list)))
-            #count += 1
+            axs[count].imshow(imageplt)
+            axs[count].set(title=(file+": "+empty_string.join(name_list)))
+            count += 1
             flag_info[file] = final_list
             country_dict[file] = name_list
             print(file, name_list)
