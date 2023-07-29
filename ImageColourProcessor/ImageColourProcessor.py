@@ -14,8 +14,8 @@ if __name__ == '__main__':
     #open all
     flag_info = {}
     flag_colour_info = {}
-    fig, axs  = plt.subplots(nrows=142, ncols=1, figsize=(300, 500))
-    axs = axs.flatten()
+    #fig, axs  = plt.subplots(nrows=142, ncols=1, figsize=(300, 500))
+    #axs = axs.flatten()
     count = 0
     for infile in glob.glob("*.png"):
         file, ext = os.path.splitext(infile)
@@ -44,12 +44,14 @@ if __name__ == '__main__':
                     flag_colour_dict[closest_colour] += num_colour_pixels
                 else:
                     flag_colour_dict[closest_colour] = num_colour_pixels
+            print(flag_colour_dict)
             for key in flag_colour_dict:
                 if flag_colour_dict[key] > num_pixels/100:
-                    name_list.append(colour_dict[flag_colour_dict[key]])
+                    name_list.append(colour_dict[key])
+            print(name_list)
             empty_string =', '
-            axs[count].imshow(imageplt)
-            axs[count].set(title=(file+": "+empty_string.join(name_list)))
+            #axs[count].imshow(imageplt)
+            #axs[count].set(title=(file+": "+empty_string.join(name_list)))
             count += 1
             flag_info[file] = final_list
             country_dict[file] = name_list
