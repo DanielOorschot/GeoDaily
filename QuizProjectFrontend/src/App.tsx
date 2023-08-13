@@ -5,6 +5,7 @@ import countryJson from './countrydata.json';
 import { Country } from './helpers/TypeInterfaces';
 import CountryLine from './CountryLine';
 import './App.scss'
+import Navbar from './Components/Navbar';
 
 const App = () => {
 
@@ -65,7 +66,9 @@ const App = () => {
 
 
   return (
+    
     <div className='animatedBackground'>
+      <Navbar/>
       <div className='center'>
         <div className='tableContainer'>
           <table>

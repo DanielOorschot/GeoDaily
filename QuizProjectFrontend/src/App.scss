@@ -18,6 +18,17 @@ body {
   animation: animatedBackground 500s linear infinite;
 }
 
+.Navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  z-index: 1;
+  margin: auto;
+  background-color: black;
+
+}
+
 .center
 {
   display: flex;
