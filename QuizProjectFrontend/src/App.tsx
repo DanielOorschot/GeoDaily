@@ -68,7 +68,6 @@ const App = () => {
   return (
     
     <div className='animatedBackground'>
-      <Navbar/>
       <div className='center'>
         <div className='tableContainer'>
           <table>
