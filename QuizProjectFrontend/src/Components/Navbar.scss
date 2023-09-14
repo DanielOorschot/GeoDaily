@@ -1,0 +1,17 @@
+.nav {
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+    z-index: 100;
+    position: absolute;
+
+
+}
+
+.nav a {
+    color: inherit;
+}
