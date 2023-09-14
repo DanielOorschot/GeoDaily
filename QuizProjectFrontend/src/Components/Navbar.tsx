@@ -4,7 +4,7 @@ import "./Navbar.scss"
 const Navbar = () => {
     return (
         <nav>
-            <a href="/" className="site-title">TerraTrivia</a>
+            <a href="http://localhost:3000/" className="site-title">TerraTrivia</a>
             <ul>
                 <li>
                     <a href="/">?</a>
