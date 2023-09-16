@@ -1,0 +1,19 @@
+.CountryLine {
+    display: flex;
+
+    &-correct {
+        background-color: green;
+    }
+
+    &-incorrect {
+        background-color: red;
+    }
+
+    &-partcorrect {
+        background-color: orange;
+    }
+
+}
+
+
+
