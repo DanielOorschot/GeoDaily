@@ -1,11 +1,18 @@
 import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
-import './App.css';
 import countryJson from './countrydata.json';
 import { Country } from './helpers/TypeInterfaces';
 import CountryLine from './CountryLine';
 import './App.scss'
 import Navbar from './Components/Navbar';
+import styled from 'styled-components';
+import { Canvas } from '@react-three/fiber';
+import {Suspense} from "react";
+import { Earth } from './Components/earth';
+
+const CanvasContainer = styled.div`
+  width: 100%;
+  height: 100%;
+`;
 
 const App = () => {
 
@@ -67,9 +74,8 @@ const App = () => {
 
   return (
     
-    <div className='animatedBackground'>
-      <div className='center'>
-        <div className='tableContainer'>
+        <CanvasContainer>
+          <div className='tableContainer'>
           <table>
             <thead>
               <tr>
@@ -86,8 +92,13 @@ const App = () => {
             {guessButton}
           </table>
         </div>
-      </div>
-    </div>
+        <Canvas>
+          <Suspense fallback={null}>
+            <Earth />
+          </Suspense>
+        </Canvas>
+      </CanvasContainer>
+
   );
 }
 
