@@ -9,7 +9,7 @@ import { TextureLoader } from "three";
 
 export function Earth(props: any) {
 
-    const [colourMap] = useLoader(TextureLoader, [EquirectangularEarth]);
+    const [colourMap] = useLoader(TextureLoader, [EarthDayMap]);
 
     const earthRef = useRef<any>(null);
 
